@@ -1,0 +1,1 @@
+# vitalic-static-assets
